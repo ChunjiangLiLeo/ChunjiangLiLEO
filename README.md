@@ -81,7 +81,7 @@ My goal is to launch a global fintech platform in the coming years.
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/chunjiang-li-leo/" target="_blank">
+  <a href="https://www.linkedin.com/in/chunjiang-li-b14455231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
