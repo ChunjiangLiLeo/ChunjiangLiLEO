@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Chunjiang Li (Leo) -->
 
-<h1 align="center">Hi, I'm Chunjiang Li (Leo) 👋</h1>
+<h1 align="center">Hi, I'm Chunjiang Li (Leo) </h1>
 <p align="center">
   <em>Master's Student in Information Systems @ Johns Hopkins University | Aspiring Data Enginner & Useful Web APP Developer</em>
 </p>
