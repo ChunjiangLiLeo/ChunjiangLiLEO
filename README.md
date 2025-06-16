@@ -12,7 +12,9 @@
 I'm passionate about leveraging data and AI to foster transparency in fintech and empower global decision-making.  
 With a background in International Relations & Applied Math, I bring a unique interdisciplinary perspective to every project.  
 Currently, I'm interning at **Scout Inc.** as a Data Engineer, where I design and build scalable data systems.  
-My goal is to launch a global fintech platform in the coming years.
+My long-term vision is to develop 13 distinct software products, among which 12 will be inspired by the Chinese Zodiac, each symbolizing a different digital function—such as automation, education, productivity, or creativity. These "Zodiac Apps" will form a culturally rooted IP ecosystem that blends tradition with modern technology.
+
+Alongside this series, I am building a standalone fintech platform focused on enhancing transaction security, auditability, and financial transparency—especially in high-impact industries like philanthropy and international trade.
 
 ---
 
